@@ -1,0 +1,41 @@
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.exe
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.deps.json
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.runtimeconfig.json
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.runtimeconfig.dev.json
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.dll
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\bin\Debug\net5.0-windows\ref\Prediction.dll
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.pdb
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.Form1.resources
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.csproj.GenerateResource.cache
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.AssemblyInfoInputs.cache
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.AssemblyInfo.cs
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.csproj.CoreCompileInputs.cache
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.dll
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\ref\Prediction.dll
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.pdb
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.genruntimeconfig.cache
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.csproj.CopyComplete
+D:\Coding\C#Workspace\WIN FORMS\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.Properties.Resources.resources
+D:\Coding\Git-Hub\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.exe
+D:\Coding\Git-Hub\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.deps.json
+D:\Coding\Git-Hub\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.runtimeconfig.json
+D:\Coding\Git-Hub\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.runtimeconfig.dev.json
+D:\Coding\Git-Hub\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.dll
+D:\Coding\Git-Hub\Prediction\Prediction\bin\Debug\net5.0-windows\ref\Prediction.dll
+D:\Coding\Git-Hub\Prediction\Prediction\bin\Debug\net5.0-windows\Prediction.pdb
+D:\Coding\Git-Hub\Prediction\Prediction\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.csprojAssemblyReference.cache
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.Form1.resources
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.Properties.Resources.resources
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.csproj.GenerateResource.cache
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.AssemblyInfoInputs.cache
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.AssemblyInfo.cs
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.csproj.CoreCompileInputs.cache
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.csproj.CopyComplete
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.dll
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\ref\Prediction.dll
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.pdb
+D:\Coding\Git-Hub\Prediction\Prediction\obj\Debug\net5.0-windows\Prediction.genruntimeconfig.cache
